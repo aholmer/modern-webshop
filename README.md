@@ -1,4 +1,4 @@
-# modern_webshop
+# modern-webshop
 
 ## Technologies
 
