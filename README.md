@@ -4,7 +4,10 @@
 
 - Java Spring Boot
   - Alternatives:
-    - instead of Java EE
-- Nginx             (instead of Apache httpd)
+    - Java EE
+    - .net
+- Nginx
+  - Alternatives:
+    - Apache httpd, older, less performant, and having decreasing popularity
 - Docker
 - Kubernetes
